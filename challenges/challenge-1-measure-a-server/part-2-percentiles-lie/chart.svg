@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 340" font-family="sans-serif" font-size="13">
+<rect width="560" height="340" fill="white"/>
+<text x="60" y="26" font-size="15" font-weight="bold">Fan-out: more calls per page, slower pages</text>
+<line x1="60" y1="290" x2="536" y2="290" stroke="#999"/>
+<line x1="60" y1="44" x2="60" y2="290" stroke="#999"/>
+<text x="52" y="48" text-anchor="end">202</text>
+<text x="52" y="290" text-anchor="end">0</text>
+<text x="298" y="330" text-anchor="middle">calls per page</text>
+<text x="16" y="167" transform="rotate(-90 16 167)" text-anchor="middle">milliseconds</text>
+<text x="60" y="308" text-anchor="middle">1</text>
+<text x="85.05263157894737" y="308" text-anchor="middle">2</text>
+<text x="160.21052631578948" y="308" text-anchor="middle">5</text>
+<text x="285.4736842105263" y="308" text-anchor="middle">10</text>
+<text x="536" y="308" text-anchor="middle">20</text>
+<path d="M60.0,289.3 L85.1,289.3 L160.2,289.1 L285.5,288.6 L536.0,287.6" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<text x="532" y="279.55535458273584" text-anchor="end" fill="#2563eb">p50</text>
+<path d="M60.0,288.1 L85.1,287.4 L160.2,45.9 L285.5,44.7 L536.0,44.0" fill="none" stroke="#dc2626" stroke-width="2.5"/>
+<text x="532" y="36" text-anchor="end" fill="#dc2626">p95</text>
+</svg>

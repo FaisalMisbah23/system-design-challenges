@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 340" font-family="sans-serif" font-size="13">
+<rect width="560" height="340" fill="white"/>
+<text x="60" y="26" font-size="15" font-weight="bold">Latency as load grows (service time 10 ms)</text>
+<line x1="60" y1="290" x2="536" y2="290" stroke="#999"/>
+<line x1="60" y1="44" x2="60" y2="290" stroke="#999"/>
+<text x="52" y="48" text-anchor="end">275</text>
+<text x="52" y="290" text-anchor="end">0</text>
+<text x="298" y="330" text-anchor="middle">requests per second</text>
+<text x="16" y="167" transform="rotate(-90 16 167)" text-anchor="middle">milliseconds</text>
+<text x="60" y="308" text-anchor="middle">20</text>
+<text x="186.93333333333334" y="308" text-anchor="middle">40</text>
+<text x="313.8666666666667" y="308" text-anchor="middle">60</text>
+<text x="377.3333333333333" y="308" text-anchor="middle">70</text>
+<text x="440.8" y="308" text-anchor="middle">80</text>
+<text x="472.53333333333336" y="308" text-anchor="middle">85</text>
+<text x="504.26666666666665" y="308" text-anchor="middle">90</text>
+<text x="536" y="308" text-anchor="middle">95</text>
+<path d="M60.0,282.0 L186.9,278.0 L313.9,277.4 L377.3,270.9 L440.8,264.7 L472.5,259.2 L504.3,242.1 L536.0,242.4" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<text x="532" y="234.35712537515263" text-anchor="end" fill="#2563eb">p50</text>
+<path d="M60.0,231.2 L186.9,228.5 L313.9,227.9 L377.3,149.1 L440.8,130.2 L472.5,119.4 L504.3,45.1 L536.0,44.0" fill="none" stroke="#dc2626" stroke-width="2.5"/>
+<text x="532" y="36" text-anchor="end" fill="#dc2626">p99</text>
+</svg>
